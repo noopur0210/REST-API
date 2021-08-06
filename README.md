@@ -2,6 +2,16 @@
 
 A simple RESTful API with CRUD implementations to help a user add data and access it. Contains a Login/Signup page to allow only registered users to access the database.
 
+## Technologies Used
+
+-> NodeJs and Express for the server.
+
+-> MySQL and Apache for the database server.
+
+-> EJS for rendering webpages.
+ 
+-> HTML, CSS, Bootstrap, JavaScript for styling and creating the frontend.
+
 ## Installation
 
 Install [NodeJS](https://nodejs.org/en/download/) to be able to access the API.
